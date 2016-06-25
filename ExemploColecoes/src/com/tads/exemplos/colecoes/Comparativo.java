@@ -1,5 +1,8 @@
 package com.tads.exemplos.colecoes;
 
+//Fonte: http://www.devmedia.com.br/diferenca-entre-arraylist-vector-e-linkedlist-em-java/29162
+
+//comparativo dos métodos entre ArrayList e LinkedList
 import java.util.ArrayList;
 import java.util.LinkedList;
 
